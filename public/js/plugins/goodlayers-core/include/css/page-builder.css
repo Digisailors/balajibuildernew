@@ -944,6 +944,49 @@ ul.slides .clearfix{ height: auto; opacity: 1; clear: none; }
 	.gdlr-core-tab-feature2-item .gdlr-core-tab-feature2-title{ font-size: 13px; }
 }
 
+@media only screen and (max-width: 767px){
+	.gdlr-core-pbf-element iframe{
+		width: 325px;
+		height: 1200px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+}
+@media only screen and (min-width: 768px) and (max-width: 1170px){ 
+	.gdlr-core-pbf-element iframe{
+		width: 640px;
+		height: 1200px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+}
+@media only screen and (min-width: 1171px) and (max-width: 1400px){ 
+	.gdlr-core-pbf-element iframe{
+		width: 640px;
+		height: 1200px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+}
+@media only screen and (min-width: 1401px) and (max-width: 1600px){ 
+	.gdlr-core-pbf-element iframe{
+		width: 640px;
+		height: 1200px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+}
+@media only screen and (min-width: 1601px){ 
+	.gdlr-core-pbf-element iframe{
+		width: 640px;
+		height: 1200px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+}
+
+
 /* tab feature3 */
 .gdlr-core-tab-feature3-title-wrap .gdlr-core-tab-feature3-title{ color: #777; }
 .gdlr-core-tab-feature3-title-wrap.gdlr-core-active .gdlr-core-tab-feature3-title{ color: #0082fa; }
